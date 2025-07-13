@@ -1,3 +1,4 @@
 # Ignore all data
 annotations/
 images/
+bb_resnet_weights.pth
