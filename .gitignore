@@ -2,3 +2,7 @@
 annotations/
 images/
 bb_resnet_model.pth
+detr_checkpoints/
+lightning_logs/detr_experiment/
+best_detr_model.pth
+detr_incomplete.ipynb
